@@ -51,10 +51,8 @@ The system follows a **Supervisor → Multi-Agent** structure:
 
 ## 🖼 System Architecture
 
-Insert your **LangGraph flow diagram** here:  
-
 ![Agent Flow Diagram](AI_agents.jpg)  
-*Replace `path_to_your_graph.png` with your actual image.*
+
 
 ---
 
