@@ -79,5 +79,4 @@ Insert your **LangGraph flow diagram** here:
 
 ---
 
-## 📂 Project Structure
 
