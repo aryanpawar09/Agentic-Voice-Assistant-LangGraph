@@ -13,14 +13,8 @@ This system enables **intelligent voice calling**, **loan collection**, **custom
 - **Agentic AI Flows with LangGraph**:  
   Supports modular multi-agent logic and dynamic tool-calling.
 
-- **Voice-Enabled Interaction**:  
-  Integrated **TTS (Text-to-Speech)** and **ASR (Automatic Speech Recognition)** for real-time audio calls.
-
 - **RAG-Powered Conversations**:  
   Uses **vector databases** to provide context-aware, document-driven responses.
-
-- **Reusable Codebase**:  
-  Quickly deploy to multiple loan/finance clients with minimal changes.
 
 ---
 
