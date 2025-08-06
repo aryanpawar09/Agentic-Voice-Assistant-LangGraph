@@ -1,5 +1,4 @@
 # Agentic-Voice-Assistant-LangGraph
-# LangGraph Multi-Agent Voice Calling Framework
 
 A **production-ready, agentic AI framework** built using **LangGraph** for developing **voice-based multi-agent assistants**.  
 This system enables **intelligent voice calling**, **loan collection**, **customer support**, and **multilingual AI conversations**, powered by **LLMs** and **agentic workflows**.
